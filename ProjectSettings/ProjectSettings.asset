@@ -12,8 +12,8 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: practica1Juan.Mancera
-  productName: Practica1_Juan_Mancera
+  companyName: Practica2_Juan_Mancera
+  productName: com.Mancera.Practica2Juan
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -167,7 +167,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.4
   androidMinAspectRatio: 1
   applicationIdentifier:
-    Android: com.vuforia.engine.VuforiaEngine
+    Android: com.Mancera.Practica2Juan
     Lumin: com.PTCInc.VuforiaEngine
     Standalone: com.PTCInc.VuforiaEngine
     iPhone: com.vuforia.engine.VuforiaEngine
@@ -981,8 +981,7 @@ PlayerSettings:
   syncCapabilities: 0
   platformCapabilities:
     WindowsStoreApps:
-      EnterpriseAuthentication: False
-      OfflineMapsManagement: False
+      VideosLibrary: False
       HumanInterfaceDevice: False
       Location: False
       Chat: False
@@ -992,7 +991,6 @@ PlayerSettings:
       LowLevelDevices: False
       PrivateNetworkClientServer: False
       InternetClientServer: False
-      VideosLibrary: False
       Objects3D: False
       RemoteSystem: False
       BlockedChatMessages: False
@@ -1014,10 +1012,9 @@ PlayerSettings:
       PointOfService: False
       RecordedCallsFolder: False
       Contacts: False
-      InternetClient: True
-      CodeGeneration: False
-      BackgroundMediaPlayback: False
       Proximity: False
+      CodeGeneration: False
+      InternetClient: True
   metroTargetDeviceFamilies:
     Desktop: False
     Holographic: False
@@ -1083,7 +1080,7 @@ PlayerSettings:
   cloudProjectId: d7935200-c034-47de-bf2c-bec462999832
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: Clase_Vuforia
   organizationId: juanito18803
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
