@@ -3,8 +3,8 @@ using UnityEngine.SceneManagement;
 
 public class Menu : MonoBehaviour
 {
-    public void IniciarApp()
+    public void IniciarApp(int numScene)
     {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(numScene);
     }
 }
