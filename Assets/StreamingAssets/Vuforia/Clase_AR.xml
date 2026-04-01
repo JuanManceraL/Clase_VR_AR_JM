@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="zelda_ar_7" size="1.000000 1.000000" />
+    <ImageTarget name="zelda_ar_6" size="1.000000 1.000000" />
+    <ImageTarget name="zelda_ar_5" size="1.000000 1.000000" />
     <ImageTarget name="zelda_ar_4" size="1.000000 1.000000" />
     <ImageTarget name="zelda_ar_3" size="1.000000 1.000000" />
     <ImageTarget name="zelda_ar_2" size="1.000000 1.000000" />
     <ImageTarget name="zelda_ar_1" size="1.000000 1.000000" />
-    <ImageTarget name="zelda_ar" size="1.000000 0.999462" />
-    <ImageTarget name="ar_skipper" size="1.000000 1.000556" />
   </Tracking>
 </QCARConfig>

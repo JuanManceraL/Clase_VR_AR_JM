@@ -15,6 +15,7 @@ public class MoveTarget : MonoBehaviour
 
     public void PutAnimation(int targetInt)
     {
+
         foreach (GameObject equip in equipament)
         {
             equip.SetActive(false);

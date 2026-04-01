@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 598e76fb23367f749ad8540bbd0adf65, type: 3}
+  m_Name: Inicio_0
+  m_EditorClassIdentifier: Assembly-CSharp::Escena
+  ubiProceso: 0
+  dialogoPrevio:
+  - Previo_0
+  dialogoAct:
+  - "Hoy es el cumplea\xF1os de una ni\xF1a del pueblo, quiz\xE1 deber\xEDa conseguirle
+    un estofado de carne, creo que es su platillo favorito"
+  - Ahora necesito conseguir un arco, para poder cazarlo.
+  - "\xBFQui\xE9n podr\xE1 ayudarme a conseguir uno?"
+  dialogoPost:
+  - "Ahora deber\xEDa buscar a link, tal vez \xE9l tenga un arco"

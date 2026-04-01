@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 598e76fb23367f749ad8540bbd0adf65, type: 3}
+  m_Name: Link_1
+  m_EditorClassIdentifier: Assembly-CSharp::Escena
+  ubiProceso: 1
+  dialogoPrevio:
+  - "Zelda: Hola Link, me ayudar\xEDas a cazar a un jabal\xED para preparar un platillo"
+  - 'Link: ...'
+  dialogoAct:
+  - "Zelda: Hola link, hoy es el cumplea\xF1os de una ni\xF1a de la escuela, y le
+    quiero preparar un estofado. "
+  - "Zelda: Necesito un arco para poder cazar al jabal\xED, tendr\xE1s alguno que
+    me prestes?"
+  - 'Link: ...'
+  - 'Zelda: Ya veo, gastaste todos luchando contra centaleones'
+  - 'Link: ...'
+  - "Zelda: Entonces crees que si vamos a un campamento bokoblin podr\xEDamos conseguir
+    uno"
+  - 'Link: ...'
+  - 'Zelda: Genial link, gracias. Busquemos uno entonces'
+  dialogoPost:
+  - "Zelda: Vayamos a alg\xFAn campamento de monstruos para conseguir un arco"
